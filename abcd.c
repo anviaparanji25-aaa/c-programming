@@ -12,6 +12,7 @@ scanf(%d",&a[i]);
   printf("all the elemts\n");
 for(i=1;i<=n;i++)
 {
-printf("%d\n",a[i]);
+printf("%d\n",a[i];
+printf("hello world");
 }
 }
